@@ -11,14 +11,14 @@ This app is created for Suitmedia Mobile Software Engineer Internship Test.
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="screenshots/first_screen.png" alt="First Screen" style="width: 33%;">
-  <img src="screenshots/is_palindrome.png" alt="Is Palindrome" style="width: 33%;">
-  <img src="screenshots/not_palindrome.png" alt="Not Palindrome" style="width: 33%;">
+  <img src="screenshots/first_screen.png" alt="First Screen" style="width: 30%;">
+  <img src="screenshots/is_palindrome.png" alt="Is Palindrome" style="width: 30%;">
+  <img src="screenshots/not_palindrome.png" alt="Not Palindrome" style="width: 30%;">
 </div>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="screenshots/second_screen.png" alt="Second Screen" style="width: 33%;">
-  <img src="screenshots/third_screen.png" alt="Third Screen" style="width: 33%;">
-  <img src="screenshots/second_screen_selected.png" alt="Second Screen Selected" style="width: 33%;">
+  <img src="screenshots/second_screen.png" alt="Second Screen" style="width: 30%;">
+  <img src="screenshots/third_screen.png" alt="Third Screen" style="width: 30%;">
+  <img src="screenshots/second_screen_selected.png" alt="Second Screen Selected" style="width: 30%;">
 </div>
 
 
